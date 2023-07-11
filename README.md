@@ -36,7 +36,7 @@ The project provides a Python notebook,<b>weather-prediction-svm-ann-models.ipyn
 
 # Installation
 To run the SmartShoe project, follow these steps:<br>
-Clone the repository: https://github.com/deepaksantosh10/Smart-Shoe-Data-Analysis
+Clone the repository: https://github.com/deepaksantosh10/Smart-Shoe-Data-Analysis<br>
 Install the required dependencies
 
 # Usage
