@@ -39,11 +39,6 @@ To run the SmartShoe project, follow these steps:<br>
 Clone the repository: https://github.com/deepaksantosh10/Smart-Shoe-Data-Analysis<br>
 Install the required dependencies
 
-# Usage
-Navigate to the project directory: cd Smart-Shoe-Data-Analysis<br>
-Open the <b>gait-analysis-svm-ann-model.ipynb.ipynb</b> notebook in Jupyter or any compatible environment for gait analysis. Upload the dataset Dataset1.csv (for gait analysis) to the notebook. Follow the instructions and code comments in the notebook to analyze the gait data and generate predictions.<br>
-Open the <b>weather-prediction-svm-ann-models.ipynb.ipynb</b> notebook in Jupyter or any compatible environment for weather prediction. Upload the dataset Dataset.csv (for weather prediction) to the notebook. Follow the instructions and code comments in the notebook to analyze the weather data and generate predictions.
-
 # Datasets
 The project includes two datasets in CSV format:
 <br>
